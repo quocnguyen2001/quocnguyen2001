@@ -2,7 +2,7 @@
 
 Full-stack developer based in Ho Chi Minh City 🇻🇳. I spend most of my time in Laravel and React/Vue, shipping things like on-demand delivery platforms, SaaS billing systems and commercial CMS products.
 
-🔗 [quoc.info](https://quoc.info) · ✉️ [me@quoc.info](mailto:me@quoc.info) · 💼 [LinkedIn](https://www.linkedin.com/in/<your-linkedin>)
+🔗 [quoc.info](https://quoc.info) · ✉️ [me@quoc.info](mailto:me@quoc.info) · 💼 [LinkedIn](https://www.linkedin.com/in/quoc-dev)
 
 ## What I work with
 
